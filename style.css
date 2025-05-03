@@ -135,13 +135,7 @@ align-items: center;
     padding: 30px 30px;
 }
 
-.inwa_2{
-display: none;
-justify-content: center;
-padding: 30px;
-justify-content: space-around;
-font-size: 24px;
-}
+
 
 .link_3,.link_4,.link_5{
     background-color:#48A6A7 ;
@@ -150,13 +144,7 @@ font-size: 24px;
     color: #fff;
 }
 
-.inwa_3{
-    display: none;
-justify-content: center;
-padding: 30px;
-justify-content: space-around;
-font-size: 24px;
-}
+
 
 .link_6,.link_7,.link_8{
     background-color:#48A6A7 ;
@@ -174,3 +162,17 @@ footer{
     justify-content: center;
     font-size: 24px;
 }
+
+.inwa_12{
+    background-color:#48A6A7 ;
+    padding: 30px 30px;
+    color: #fff;
+}
+
+.kich_11,.kich_12,.kich_13{
+    background-color:#ffffff ;
+    padding: 30px 30px;
+    border-radius:50px;
+    color: #000000; 
+}
+
